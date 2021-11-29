@@ -1,0 +1,16 @@
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\AED3.exe
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\AED3.deps.json
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\AED3.runtimeconfig.json
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\AED3.dll
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\ref\AED3.dll
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\bin\Debug\net6.0\AED3.pdb
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.GlobalUsings.g.cs
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.csproj.AssemblyReference.cache
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.AssemblyInfoInputs.cache
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.AssemblyInfo.cs
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.csproj.CoreCompileInputs.cache
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.dll
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\ref\AED3.dll
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.pdb
+D:\OpenConsult\OneDrive - Open Consult\Área de Trabalho\AED3T2\AED3\obj\Debug\net6.0\AED3.genruntimeconfig.cache
